@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+a {
+    color: rgb(100, 1, 1);
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 17px;
+}
+a:visited {
+    color: #555555;
+}
+li {
+    font-size: 16px;
+    font-style: italic;
+    font-weight: normal;
+}
+h4 {
+    font-size: 25px;
+    color: #555555;
+    font-style: oblique;
+}
+.resumelistheading {
+    font-weight: bold;
+    font-style: normal;
+}
+.homebg {
+    background-image: url('../Images/goldenforest.png');
+}
+.bold {
+    font-weight: bold;
+}
+.linkedin {
+    text-decoration: none;
+    color: maroon;
+}
